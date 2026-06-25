@@ -244,7 +244,6 @@ Building this project helped me gain experience with:
 * Large Language Models (LLMs)
 * Prompt Engineering
 * AI Image Generation
-* React Application Development
 * API Integration
 * Multi-language Content Generation
 * AI Workflow Design
